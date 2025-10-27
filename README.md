@@ -2,7 +2,7 @@
 
 Sou um desenvolvedor e estudante apaixonado por criar soluções que causam impacto. Atualmente, estou cursando **Segurança da Informação** na Universidade Anhembi Morumbi e **Tecnologia com foco em Programação** no Instituto PROA.
 
-Minha maior motivação é usar a tecnologia para resolver problemas reais. Tenho um interesse especial em **Desenvolvimento Mobile (Android/Kotlin)** e **Data Science**, e estou sempre buscando formas de transformar dados em insights práticos e soluções seguras.
+Minha maior motivação é usar a tecnologia para resolver problemas reais. Tenho um interesse especial em **Data Science**, e estou sempre buscando formas de transformar dados em insights práticos e soluções seguras.
 
 - 🔭 Atualmente estou focado em aprimorar minhas habilidades em **Kotlin** e **Jetpack Compose**.
 - 🌱 Explorando o universo de **Data Science** e análise de dados.
