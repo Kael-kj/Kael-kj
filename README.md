@@ -38,14 +38,14 @@ Um dos projetos que mais me orgulho de ter desenvolvido durante minha formação
 
 - **O que faz?** A solução notifica contatos de emergência pré-cadastrados assim que o usuário identifica os primeiros sintomas.
 - **Tecnologias:** O app foi arquitetado com um banco de dados na nuvem (MongoDB) para sincronização de informações críticas do usuário (como tipo sanguíneo, alergias, etc.) com os contatos de emergência.
-- **Repositório:** [Link para o repositório do Salus] (<< SE VOCÊ TIVER, COLOQUE O LINK AQUI)
+//- **Repositório:** [Link para o repositório do Salus] 
 
 ---
 
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kael-kj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kael-kj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kael-kj&layout=compact&langs_count=6&theme=dracula"/>
 </p>
 
