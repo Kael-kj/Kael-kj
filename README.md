@@ -6,7 +6,7 @@ Minha maior motivação é usar a tecnologia para resolver problemas reais. Tenh
 
 - 🔭 Atualmente estou focado em aprimorar minhas habilidades em **Kotlin** e **Jetpack Compose**.
 - 🌱 Explorando o universo de **Data Science** e análise de dados.
-- 💡 Interessado em como a tecnologia pode otimizar processos no setor educacional.
+- 💡 Interessado em como a tecnologia pode otimizar processos.
 - 🛡️ Buscando conectar meus conhecimentos de **Segurança da Informação** com o desenvolvimento de software seguro.
 
 ---
