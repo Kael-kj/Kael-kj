@@ -41,11 +41,10 @@ Um dos projetos que mais me orgulho de ter desenvolvido durante minha formação
 //- **Repositório:** [Link para o repositório do Salus] 
 
 ---
-
+//<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kael-kj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 ## 📊 Minhas Estatísticas no GitHub
 
 <p align="center">
-  //<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kael-kj&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kael-kj&layout=compact&langs_count=6&theme=dracula"/>
 </p>
 
