@@ -49,6 +49,9 @@ Estou sempre aberto a novos desafios e oportunidades de colaboração!
   <a href="https://www.linkedin.com/in/mateuskenjiribeiro/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://mateus-kenji-port.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfólio-00A0B0?style=for-the-badge&logo=website&logoColor=white" alt="Portfólio"/>
+  </a>
   <a href="mailto:kaeledit@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
